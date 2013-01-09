@@ -1,0 +1,9 @@
+<View sceneWidth="640" sceneHeight="80" sceneColor="0xffffff" sceneBg="" layers="2,1,0;1,1,0">
+  <Image url="png.cocos.footer_bg_01" x="0" y="0" layer="1"/>
+  <Button label="商城" skin="png.cocos.btn_menu_item_6" x="534" y="0" layer="2" labelBold="true" labelSize="20" labelMargin="0,25,0,0" labelColors="0xFFFFFF,0xFFFFFF,0xFFFFFF,0xFFFFFF"/>
+  <Button label="首页" skin="png.cocos.btn_menu_item_1" x="0" y="0" layer="2" labelBold="true" labelSize="20" labelMargin="0,25,0,0" labelColors="0xFFFFFF,0xFFFFFF,0xFFFFFF,0xFFFFFF"/>
+  <Button label="任务" skin="png.cocos.btn_menu_item_2" x="106" y="0" layer="2" labelBold="true" labelSize="20" labelMargin="0,25,0,0" labelColors="0xFFFFFF,0xFFFFFF,0xFFFFFF,0xFFFFFF"/>
+  <Button label="夺宝" skin="png.cocos.btn_menu_item_3" x="213" y="0" layer="2" labelBold="true" labelSize="20" labelMargin="0,25,0,0" labelColors="0xFFFFFF,0xFFFFFF,0xFFFFFF,0xFFFFFF"/>
+  <Button label="征讨" skin="png.cocos.btn_menu_item_4" x="320" y="0" layer="2" labelBold="true" labelSize="20" labelMargin="0,25,0,0" labelColors="0xFFFFFF,0xFFFFFF,0xFFFFFF,0xFFFFFF"/>
+  <Button label="阵容" skin="png.cocos.btn_menu_item_5" x="427" y="0" layer="2" labelBold="true" labelSize="20" labelMargin="0,25,0,0" labelColors="0xFFFFFF,0xFFFFFF,0xFFFFFF,0xFFFFFF"/>
+</View>

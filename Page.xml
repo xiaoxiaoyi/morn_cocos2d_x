@@ -1,0 +1,6 @@
+<View sceneWidth="640" sceneHeight="960" sceneColor="0x999999" sceneBg="" layers="1,1,0">
+  <UIView source="footer.xml" x="0" y="880" layer="1"/>
+  <UIView source="header.xml" x="0" y="0" layer="1"/>
+  <UIView source="profile.xml" x="0" y="48" layer="1"/>
+  <Image url="png.cocos.home_page_bg" x="0" y="156" layer="1" width="639" height="733"/>
+</View>

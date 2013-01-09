@@ -1,0 +1,18 @@
+<View sceneWidth="640" sceneHeight="108" sceneColor="0xffffff" layers="2,1,1;1,1,1">
+  <Image url="png.cocos.baseprofile" x="0" y="0" layer="1"/>
+  <Label text="黄药师" x="16" y="13" layer="2" var="kingName" size="20" bold="true"/>
+  <ProgressBar skin="png.cocos.progress_xp" x="88" y="55" layer="2"/>
+  <Image url="png.cocos.kingLevelBkg" x="17" y="39" layer="2"/>
+  <Image url="png.cocos.icon_rmb" x="358" y="9" layer="2"/>
+  <Image url="png.cocos.icon_vm" x="358" y="62" layer="2"/>
+  <Image url="png.cocos.icon_sp" x="473" y="57" layer="2"/>
+  <Image url="png.cocos.icon_ep" x="473" y="11" layer="2"/>
+  <ProgressBar skin="png.cocos.progress_xp" x="520" y="22" layer="2" scale="0.5"/>
+  <ProgressBar skin="png.cocos.progress_xp" x="520" y="71" layer="2" scale="0.5"/>
+  <Label text="100" x="413" y="19" layer="2" align="left"/>
+  <Label text="1104" x="413" y="74" layer="2" align="left"/>
+  <Label text="13/24" x="178" y="67" layer="2" color="0xffffff"/>
+  <Label text="10/10" x="559" y="23" layer="2" color="0xffffff"/>
+  <Label text="3/3" x="563" y="71" layer="2" color="0xffffff"/>
+  <Label text="2" x="58" y="58" layer="2" color="0xffffff" size="15" width="12.55" height="21.15"/>
+</View>
